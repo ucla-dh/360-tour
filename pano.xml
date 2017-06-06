@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node8" apprev="15913" appversion="5.2 beta3">
+  <panorama id="node8">
+    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="429497000" overlap="1" levelingroll="0" levelbiashidpi="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1368" height="1368" preload="0" predecode="0"/>
+      <level width="684" height="684" preload="0" predecode="0"/>
+      <level width="342" height="342" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="-178.356" fov="77.6233" tilt="-80.8451"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="SAMSUNG" longitude="" description="" datetime="5/24/2017 4:45 PM" info="" tags="Pano" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
+      <polyhotspot target="4.3/-45.2/77.6" id="Case 1" title="Case 1: The Johnson Brothers" description="Description text..." url="{node1}">
+        <vertex pan="-161.42" tilt="-69.06"/>
+        <vertex pan="-147.6" tilt="-78.44"/>
+        <vertex pan="140.75" tilt="-76.57"/>
+        <vertex pan="158.7" tilt="-68.11"/>
+        <vertex pan="-179.62" tilt="-69.94"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
+    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" levelbiashidpi="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1368" height="1368" preload="0" predecode="0"/>
+      <level width="684" height="684" preload="0" predecode="0"/>
+      <level width="342" height="342" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0.96">
+      <start projection="4" pan="3.59914" fov="77.6233" tilt="-46.645"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="Case 1" longitude="" description="The Johnson Brothers" datetime="5/24/2017 4:38 PM" info="" tags="Pano" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot target="" id="Case 1 Description" title="Case 1 Description" description="Description" url="" skinid="ht_info" pan="-15.85" tilt="-43.54"/>
+      <polyhotspot target="-2.7/-48.2/77.6" id="Case 2" title="Case 2: LMPC Founding Documents" description="Case 2: LMPC Founding Documents Description" url="{node2}">
+        <vertex pan="93.16" tilt="-6.45"/>
+        <vertex pan="93.17" tilt="-21.58"/>
+        <vertex pan="68.49" tilt="-20.53"/>
+        <vertex pan="69.09" tilt="-12.91"/>
+        <vertex pan="79.73" tilt="-5.72"/>
+        <vertex pan="79.73" tilt="-5.72"/>
+        <vertex pan="79.52" tilt="-5.73"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
+    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0.3" levelbiashidpi="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1368" height="1368" preload="0" predecode="0"/>
+      <level width="684" height="684" preload="0" predecode="0"/>
+      <level width="342" height="342" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="-4.50689" fov="77.6233" tilt="-42.6865"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="SAMSUNG" longitude="" description="" datetime="5/24/2017 4:37 PM" info="" tags="Pano" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
+      <polyhotspot target="1.1/-10.7/70.0" id="Case 4" title="Case 4: The Lincoln Motion Picture Company Films" description="Case 4: The Lincoln Motion Picture Company Films Description " url="{node3}">
+        <vertex pan="163.99" tilt="3.68"/>
+        <vertex pan="163.48" tilt="-9.95"/>
+        <vertex pan="160.42" tilt="-12.09"/>
+        <vertex pan="161.24" tilt="4.97"/>
+        <vertex pan="161.24" tilt="4.97"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
+    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" levelbiashidpi="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1368" height="1368" preload="0" predecode="0"/>
+      <level width="684" height="684" preload="0" predecode="0"/>
+      <level width="342" height="342" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="SAMSUNG" longitude="" description="" datetime="5/24/2017 4:41 PM" info="" tags="Pano" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
+      <polyhotspot target="3.0/-54.7/70.0" id="Case 5" title="Case 5: The Lincoln Motion Picture Company " description="Case 5: The Lincoln Motion Picture Company Description" url="{node4}">
+        <vertex pan="-142.21" tilt="-18.81"/>
+        <vertex pan="-126.09" tilt="-25.48"/>
+        <vertex pan="-125.89" tilt="-34.9"/>
+        <vertex pan="120.47" tilt="-28.31"/>
+        <vertex pan="120.62" tilt="-19.42"/>
+        <vertex pan="136.6" tilt="-15.86"/>
+        <vertex pan="136.8" tilt="-15.4"/>
+        <vertex pan="136.8" tilt="-15.4"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
+    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0.7" levelbiashidpi="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1368" height="1368" preload="0" predecode="0"/>
+      <level width="684" height="684" preload="0" predecode="0"/>
+      <level width="342" height="342" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="SAMSUNG" longitude="" description="" datetime="5/24/2017 4:41 PM" info="" tags="Pano" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
+      <polyhotspot target="1.9/-8.4/70.0" id="Case 6" title="Case 6: Examples of Race Film" description="Case 6: Examples of Race Film Description" url="{node5}">
+        <vertex pan="-8.23" tilt="8.24"/>
+        <vertex pan="-7.65" tilt="-14.09"/>
+        <vertex pan="-22.4" tilt="-13.85"/>
+        <vertex pan="-22.45" tilt="7.22"/>
+        <vertex pan="-22.09" tilt="7.39"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
+    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="0.4" overlap="1" levelingroll="0.2" levelbiashidpi="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1368" height="1368" preload="0" predecode="0"/>
+      <level width="684" height="684" preload="0" predecode="0"/>
+      <level width="342" height="342" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="6.33306" fov="70.2283" tilt="-9.71478"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="SAMSUNG" longitude="" description="" datetime="5/24/2017 4:43 PM" info="" tags="Pano" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot target="-1.2/-52.3/70.0" id="Case 7" title="Case 7: The Legacy of Race Film" description="Case 7: The Legacy of Race Film Description" url="{node6}" skinid="ht_node" pan="-103.46" tilt="-18.09"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
+    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="0.7" overlap="1" levelingroll="0.8" levelbiashidpi="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1368" height="1368" preload="0" predecode="0"/>
+      <level width="684" height="684" preload="0" predecode="0"/>
+      <level width="342" height="342" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="-1.17604" fov="70" tilt="-52.241"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="SAMSUNG" longitude="" description="" datetime="5/24/2017 4:42 PM" info="" tags="Pano" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
+      <polyhotspot target="0.9/-29.2/70.0" id="Case 8" title="Case 8: The Trooper of Troop K" description="Case 8: The Trooper of Troop K Description" url="{node7}">
+        <vertex pan="91.21" tilt="5.27"/>
+        <vertex pan="90.76" tilt="-9.39"/>
+        <vertex pan="85.65" tilt="-9.59"/>
+        <vertex pan="85.82" tilt="5.27"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
+    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="-359" overlap="1" levelingroll="0.4" levelbiashidpi="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1368" height="1368" preload="0" predecode="0"/>
+      <level width="684" height="684" preload="0" predecode="0"/>
+      <level width="342" height="342" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="12.445" fov="70" tilt="38.531"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="SAMSUNG" longitude="" description="" datetime="5/24/2017 4:39 PM" info="" tags="Pano" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot target="-178.4/-80.8/77.6" id="Center" title="Back to Case 1" description="Back to Case 1" url="{node8}" skinid="ht_node" pan="-75.59" tilt="-18"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
+    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+</tour>

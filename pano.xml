@@ -1,228 +1,296 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node8" apprev="15913" appversion="5.2 beta3">
-  <panorama id="node8">
-    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="429497000" overlap="1" levelingroll="0" levelbiashidpi="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1368" height="1368" preload="0" predecode="0"/>
-      <level width="684" height="684" preload="0" predecode="0"/>
-      <level width="342" height="342" preload="1" predecode="1"/>
+<tour appversion="5.2 beta3" start="node9" apprev="15913">
+  <panorama id="node9">
+    <input leveltilesize="510" levelingpitch="3.97855" levelbiashidpi="0.400" overlap="1" height="1368" levelbias="0.400" width="1368" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="1.04024">
+      <level preload="0" predecode="0" height="1368" width="1368"/>
+      <level preload="0" predecode="0" height="684" width="684"/>
+      <level preload="1" predecode="1" height="342" width="342"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="-178.356" fov="77.6233" tilt="-80.8451"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="53.951" projection="4" tilt="0" pan="20.7817"/>
+      <flyin fov="170" projection="9" tilt="50.94" pan="-6.77"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1"/>
     </view>
-    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="SAMSUNG" longitude="" description="" datetime="5/24/2017 4:45 PM" info="" tags="Pano" latitude="" source=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
-      <polyhotspot target="4.3/-45.2/77.6" id="Case 1" title="Case 1: The Johnson Brothers" description="Description text..." url="{node1}">
-        <vertex pan="-161.42" tilt="-69.06"/>
-        <vertex pan="-147.6" tilt="-78.44"/>
-        <vertex pan="140.75" tilt="-76.57"/>
-        <vertex pan="158.7" tilt="-68.11"/>
-        <vertex pan="-179.62" tilt="-69.94"/>
+    <userdata datetime="6/3/2017 4:05 PM" source="" customnodeid="" title="Front Door" comment="" info="" author="Francesca" latitude="" tags="Front Door" longitude="" description="Front door" copyright=""/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label background="1" borderradius="1" textcolor="0x000000" height="0" backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" wordwrap="1" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1" mode="1" bordercolor="0x0000ff"/>
+      <polyhotspot id="Begin Tour" title="Begin Tour" url="{node10}" target="159.9/-2.0/58.0" description="Welcome to the 360 tour of  the UCLA YRL special collection exhibition &quot;The Industry of Uplift: Silent Race Film, The Lincoln Motion Picture Company and George P. Johnson.&quot;">
+        <vertex tilt="20.26" pan="26.72"/>
+        <vertex tilt="-23.33" pan="26.08"/>
+        <vertex tilt="-23.74" pan="-8.33"/>
+        <vertex tilt="19.99" pan="-10.26"/>
       </polyhotspot>
+      <hotspot id="Welcome" title="Welcome" tilt="-2" url="" target="_self" skinid="ht_info" pan="38.41" description="Welcome to the 360 tour of  the UCLA YRL special collection exhibition &quot;The Industry of Uplift: Silent Race Film, The Lincoln Motion Picture Company and George P. Johnson.&quot;"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
-    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
+    <transition zoomoutpause="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" zoomin="0" enabled="0" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboard="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" sensitivity="8" contextprojections="0" hideabout="0"/>
   </panorama>
   <panorama id="node1">
-    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" levelbiashidpi="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1368" height="1368" preload="0" predecode="0"/>
-      <level width="684" height="684" preload="0" predecode="0"/>
-      <level width="342" height="342" preload="1" predecode="1"/>
+    <input leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" overlap="1" height="1368" levelbias="0.400" width="1368" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" predecode="0" height="1368" width="1368"/>
+      <level preload="0" predecode="0" height="684" width="684"/>
+      <level preload="1" predecode="1" height="342" width="342"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0.96">
-      <start projection="4" pan="3.59914" fov="77.6233" tilt="-46.645"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
+    <view pannorth="0.96" fovmode="0">
+      <start fov="77.6233" projection="4" tilt="-46.645" pan="3.59914"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1"/>
     </view>
-    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="Case 1" longitude="" description="The Johnson Brothers" datetime="5/24/2017 4:38 PM" info="" tags="Pano" latitude="" source=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot target="" id="Case 1 Description" title="Case 1 Description" description="Description" url="" skinid="ht_info" pan="-15.85" tilt="-43.54"/>
-      <polyhotspot target="-2.7/-48.2/77.6" id="Case 2" title="Case 2: LMPC Founding Documents" description="Case 2: LMPC Founding Documents Description" url="{node2}">
-        <vertex pan="93.16" tilt="-6.45"/>
-        <vertex pan="93.17" tilt="-21.58"/>
-        <vertex pan="68.49" tilt="-20.53"/>
-        <vertex pan="69.09" tilt="-12.91"/>
-        <vertex pan="79.73" tilt="-5.72"/>
-        <vertex pan="79.73" tilt="-5.72"/>
-        <vertex pan="79.52" tilt="-5.73"/>
+    <userdata datetime="5/24/2017 4:38 PM" source="" customnodeid="" title="Case 1" comment="" info="" author="Francesca Albrezzi" latitude="" tags="Pano" longitude="" description="The Johnson Brothers" copyright=""/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label background="1" borderradius="1" textcolor="0x000000" height="0" backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" wordwrap="1" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1" mode="1" bordercolor="0x0000ff"/>
+      <hotspot id="Case 1 Description" title="Case 1: Brothers" tilt="-43.49" url="" target="_self" skinid="ht_info" pan="-16.18" description="&lt;i>“My entrance into the motion picture business was not one of choice but of incidence revolving around my relationship to Noble Johnson, my brother.”&lt;/i>  -George P. Johnson &#xa;&#xa;George and Noble Johnson were brothers born into a horse-training family in Colorado Springs, Colorado, in the late nineteenth century. Although they were raised apart, the project of the Lincoln Motion Picture Film Company (LMPC) brought them together personally and professionally in 1915. George began his professional life as a business and newspaperman, establishing the first nationally-circulated Negro newspaper in the U.S. Noble worked as a Universal Pictures contract player, appearing in more than 40 films between 1915 and 1919. As the LMPC grew, Noble needed a solid record-keeper who could advance the business interests of the company. He had that in George. After the close of the company in 1919, George would go on to gather records for over 40 years, detailing the LMPC’s work and its role in changing the perception of African-American artists in film and media. "/>
+      <polyhotspot id="Case 2 Tour" title="Case 2: The Lincoln Motion Picture Company" url="{node2}" target="-2.7/-48.2/77.6" description="Continue your tour to learn more about the Lincoln Mortion Picture Company and how it was founded.">
+        <vertex tilt="-6.45" pan="93.16"/>
+        <vertex tilt="-21.58" pan="93.17"/>
+        <vertex tilt="-20.53" pan="68.49"/>
+        <vertex tilt="-12.91" pan="69.09"/>
+        <vertex tilt="-5.72" pan="79.73"/>
+        <vertex tilt="-5.72" pan="79.73"/>
+        <vertex tilt="-5.73" pan="79.52"/>
       </polyhotspot>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
-    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
+    <transition zoomoutpause="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" zoomin="0" enabled="0" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboard="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" sensitivity="8" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltilesize="510" levelingpitch="-12.8029" levelbiashidpi="0.400" overlap="1" height="1368" levelbias="0.400" width="1368" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="-2.23857">
+      <level preload="0" predecode="0" height="1368" width="1368"/>
+      <level preload="0" predecode="0" height="684" width="684"/>
+      <level preload="1" predecode="1" height="342" width="342"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="58.0335" projection="4" tilt="0" pan="137.805"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="6/3/2017 4:17 PM" source="" customnodeid="" title="Entrance" comment="" info="" author="Francesca" latitude="" tags="Front Door" longitude="" description="Entrance" copyright=""/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label background="1" borderradius="1" textcolor="0x000000" height="0" backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" wordwrap="1" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1" mode="1" bordercolor="0x0000ff"/>
+      <hotspot id="Introduction" title="The Industry of Uplift: Silent Race Film, The Lincoln Motion Picture Company and George P. Johnson" tilt="-12.98" url="" target="_self" skinid="ht_info" pan="-12.99" description="&lt;i>“The complete information contained in this manuscript relative to the early history of the Negro in film and of Noble Johnson’s record and life history cannot be found in any library in the world. It is a collection compiled by George P. Johnson, his brother, on which he has spent forty years in compiling, consisting of books, magazine articles, newspaper clippings, programs, advertisements, photographs, stock-selling prospectuses, letters on firm stationery, and personal letters and signatures. Steel card files are full of names and information on thousands of Negro actors and productions in which they appear…” &lt;/i> -Leading a Dog’s Life in Hollywood by Clarke Irving, read in an interview given by George P. Johnson. &#xa;  &#xa;George P. Johnson worked as booking manager and business administrator for the Lincoln Motion Picture Company, one of the first race film companies, from 1915 to 1919. He joined the company after the production of its first film, The Realization of a Negro’s Ambition, and was instrumental in creating a network for distribution and exhibition of this and other Lincoln pictures that followed. His brother, Noble Johnson, was a founding member of the company, and after its closing in 1919, Noble went on to a successful career as a contract studio player in Hollywood. After the company disbanded, George Johnson began what would become a lifelong mission to preserve as much of the history of the Lincoln Motion Picture Company as he could, amassing a collection of thousands of items that relate the story of race film, black storytellers and the evolving and changing face of black entertainers in the United States. With his passing, Mr. Johnson ensured the survival of the collection by entrusting it to the Special Collections department of the Young Research Library at UCLA. "/>
+      <hotspot id="Directions" title="Explore the Exhibition" tilt="8.02" url="" target="" skinid="ht_info" pan="140.26" description="Move around the 360 view of the exhibition by clicking or using the controls at the bottom of the screen. Click on icons to read info and watch videos. Clicking on blue areas will advance you to the next part of the tour."/>
+      <polyhotspot id="Case 1" title="Case 1: Brothers" url="{node1}" target="" description="“My entrance into the motion picture business was not one of choice but of incidence revolving around my relationship to Noble Johnson, my brother.”  -George P. Johnson &#xa;  &#xa;George and Noble Johnson were brothers born into a horse-training family in Colorado Springs, Colorado, in the late nineteenth century. Although they were raised apart, the project of the Lincoln Motion Picture Film Company (LMPC) brought them together personally and professionally in 1915. George began his professional life as a business and newspaperman, establishing the first nationally-circulated Negro newspaper in the U.S. Noble worked as a Universal Pictures contract player, appearing in more than 40 films between 1915 and 1919. As the LMPC grew, Noble needed a solid record-keeper who could advance the business interests of the company. He had that in George. After the close of the company in 1919, George would go on to gather records for over 40 years, detailing the LMPC’s work and its role in changing the perception of African-American artists in film and media. ">
+        <vertex tilt="-30.64" pan="59.28"/>
+        <vertex tilt="-23.06" pan="57.45"/>
+        <vertex tilt="-21.54" pan="46.52"/>
+        <vertex tilt="-25.28" pan="-3.78"/>
+        <vertex tilt="-29.94" pan="-11.77"/>
+        <vertex tilt="-39.74" pan="-13.07"/>
+        <vertex tilt="-39.63" pan="-13.02"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" zoomin="0" enabled="0" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboard="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" sensitivity="8" contextprojections="0" hideabout="0"/>
   </panorama>
   <panorama id="node2">
-    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0.3" levelbiashidpi="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1368" height="1368" preload="0" predecode="0"/>
-      <level width="684" height="684" preload="0" predecode="0"/>
-      <level width="342" height="342" preload="1" predecode="1"/>
+    <input leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" overlap="1" height="1368" levelbias="0.400" width="1368" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0.3">
+      <level preload="0" predecode="0" height="1368" width="1368"/>
+      <level preload="0" predecode="0" height="684" width="684"/>
+      <level preload="1" predecode="1" height="342" width="342"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="-4.50689" fov="77.6233" tilt="-42.6865"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="77.6233" projection="4" tilt="-42.6865" pan="-4.50689"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1"/>
     </view>
-    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="SAMSUNG" longitude="" description="" datetime="5/24/2017 4:37 PM" info="" tags="Pano" latitude="" source=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
-      <polyhotspot target="1.1/-10.7/70.0" id="Case 4" title="Case 4: The Lincoln Motion Picture Company Films" description="Case 4: The Lincoln Motion Picture Company Films Description " url="{node3}">
-        <vertex pan="163.99" tilt="3.68"/>
-        <vertex pan="163.48" tilt="-9.95"/>
-        <vertex pan="160.42" tilt="-12.09"/>
-        <vertex pan="161.24" tilt="4.97"/>
-        <vertex pan="161.24" tilt="4.97"/>
+    <userdata datetime="5/24/2017 4:37 PM" source="" customnodeid="" title="Case 2 and 3" comment="" info="" author="Francesca Albrezzi" latitude="" tags="Pano" longitude="" description="" copyright=""/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label background="1" borderradius="1" textcolor="0x000000" height="0" backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" wordwrap="1" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1" mode="1" bordercolor="0x0000ff"/>
+      <polyhotspot id="Case 4 Tour" title="Case 4: “The Realization of a Negro’s Ambition”" url="{node3}" target="1.1/-10.7/70.0" description="Click here to continue your tour and learn more about the work of the Lincoln Motion Picture Company, like their first film &quot;The Realization of a Negro's Ambition.&quot; ">
+        <vertex tilt="3.68" pan="163.99"/>
+        <vertex tilt="-9.95" pan="163.48"/>
+        <vertex tilt="-12.09" pan="160.42"/>
+        <vertex tilt="4.97" pan="161.24"/>
+        <vertex tilt="4.97" pan="161.24"/>
       </polyhotspot>
+      <hotspot id="Case 2 Description" title="Case 2: The Lincoln Motion Picture Company" tilt="-42.17" url="" target="_self" skinid="ht_info" pan="-15.47" description="&lt;i>“My brother Noble Johnson was employed with Universal Film Company, and a white cameraman, Harry Gant, was also employed – they had been cowboys together years before. In talking they evidently got it into their heads to make a Negro picture, so they proceeded to form a company.”&lt;/i>  -George P. Johnson   &#xa;&#xa;Founded by a group of five members and a multiracial group of investors, the Lincoln Motion Picture Company was established in 1915 as the first silent race film company in the United States. When LMPC was founded, many mainstream films featured African-Americans in undignified and demeaning conditions, often in projects made as novelty items for white audiences. The LMPC worked to create compelling narrative content specifically for African-American audiences, and to uplift black characters in cinematic representation. But before any of that could be done, the company had to be established as a legal entity, detailed here in professional documents, including articles of incorporation, stock certificates, and professional contracts. &#xa;"/>
+      <hotspot id="video" title="Silent Race Film" tilt="3.76" url="https://ia801507.us.archive.org/17/items/IndustryOfUplift/Industry%20of%20Uplift.mp4" target="_blank" skinid="ht_video_url" pan="-58.35" description="A short video  overview of silent race film."/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
-    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
+    <transition zoomoutpause="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" zoomin="0" enabled="0" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboard="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" sensitivity="8" contextprojections="0" hideabout="0"/>
   </panorama>
   <panorama id="node3">
-    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" levelbiashidpi="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1368" height="1368" preload="0" predecode="0"/>
-      <level width="684" height="684" preload="0" predecode="0"/>
-      <level width="342" height="342" preload="1" predecode="1"/>
+    <input leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" overlap="1" height="1368" levelbias="0.400" width="1368" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" predecode="0" height="1368" width="1368"/>
+      <level preload="0" predecode="0" height="684" width="684"/>
+      <level preload="1" predecode="1" height="342" width="342"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="0" fov="70" tilt="0"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" tilt="-12.7566" pan="2.8285"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1"/>
     </view>
-    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="SAMSUNG" longitude="" description="" datetime="5/24/2017 4:41 PM" info="" tags="Pano" latitude="" source=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
-      <polyhotspot target="3.0/-54.7/70.0" id="Case 5" title="Case 5: The Lincoln Motion Picture Company " description="Case 5: The Lincoln Motion Picture Company Description" url="{node4}">
-        <vertex pan="-142.21" tilt="-18.81"/>
-        <vertex pan="-126.09" tilt="-25.48"/>
-        <vertex pan="-125.89" tilt="-34.9"/>
-        <vertex pan="120.47" tilt="-28.31"/>
-        <vertex pan="120.62" tilt="-19.42"/>
-        <vertex pan="136.6" tilt="-15.86"/>
-        <vertex pan="136.8" tilt="-15.4"/>
-        <vertex pan="136.8" tilt="-15.4"/>
+    <userdata datetime="5/24/2017 4:41 PM" source="" customnodeid="" title="Case 4" comment="" info="" author="Francesca Albrezzi" latitude="" tags="Pano" longitude="" description="" copyright=""/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label background="1" borderradius="1" textcolor="0x000000" height="0" backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" wordwrap="1" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1" mode="1" bordercolor="0x0000ff"/>
+      <polyhotspot id="Case 5 Tour" title="Case 5: “Lincoln Motion Picture Company Making Good”" url="{node4}" target="3.0/-54.7/70.0" description="Click to find out mroe about the history and success of the LMPC on your tour of the exhibition. ">
+        <vertex tilt="-18.81" pan="-142.21"/>
+        <vertex tilt="-25.48" pan="-126.09"/>
+        <vertex tilt="-34.9" pan="-125.89"/>
+        <vertex tilt="-28.31" pan="120.47"/>
+        <vertex tilt="-19.42" pan="120.62"/>
+        <vertex tilt="-15.86" pan="136.6"/>
+        <vertex tilt="-15.4" pan="136.8"/>
+        <vertex tilt="-15.4" pan="136.8"/>
       </polyhotspot>
+      <polyhotspot id="Poly01" title="" url="" target="_blank" description="">
+        <vertex tilt="-37.83" pan="-166.67"/>
+        <vertex tilt="-38.73" pan="-168.94"/>
+        <vertex tilt="-38.51" pan="-168.94"/>
+      </polyhotspot>
+      <hotspot id="Case 4 Description" title="Case 4: “The Realization of a Negro's Ambition&quot;" tilt="-39.06" url="" target="_self" skinid="ht_info" pan="-10.3" description="&lt;i>“The Realization of a Negro's Ambition was a two-part drama of love and adventure, pictured with a good moral, a vein of clean comedy and beautiful settings. This production revolutionized the standard of future photoplays and was the first successful class-A Negro feature film produced, minus all burlesque and humiliating comedy… practically every theater catering to Negro trade showed this film…”  &lt;/i>-George P. Johnson   &#xa;&#xa;The Realization of a Negro’s Ambition was the first film produced by the LMPC, released to great success. The film depicted black characters with sensitivity and respect, and didn’t hesitate to include stories of racism toward black Americans. Its success laid the groundwork for the other films that followed. The eager reception of Negro films that treated African-American characters with respect and dignity changed the way black filmmakers and audiences were perceived by the mainstream film industry. With these successes, the LMPC established the genre of silent race film in the United States, and cleared the path for other artists of color who followed.  Here we offer key art, stills, and production documents drawn from the Lincoln Motion Picture Company catalog, including The Realization of a Negro’s Ambition, A Man’s Duty, By Right of Birth, and The Law of Nature. The films feature some of the leading African-American stars of the time including Noble Johnson, Clarence Brooks, Beulah Hall, Anita Thompson and Evelyn Preer. Of the entire LMPC catalog, only 4 ½ minutes of By Right of Birth survive — a common fate for silent race films, very few of which survive. "/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
-    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
+    <transition zoomoutpause="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" zoomin="0" enabled="0" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboard="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" sensitivity="8" contextprojections="0" hideabout="0"/>
   </panorama>
   <panorama id="node4">
-    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0.7" levelbiashidpi="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1368" height="1368" preload="0" predecode="0"/>
-      <level width="684" height="684" preload="0" predecode="0"/>
-      <level width="342" height="342" preload="1" predecode="1"/>
+    <input leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" overlap="1" height="1368" levelbias="0.400" width="1368" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0.7">
+      <level preload="0" predecode="0" height="1368" width="1368"/>
+      <level preload="0" predecode="0" height="684" width="684"/>
+      <level preload="1" predecode="1" height="342" width="342"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="0" fov="70" tilt="0"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" tilt="-54.0001" pan="1.29027"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1"/>
     </view>
-    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="SAMSUNG" longitude="" description="" datetime="5/24/2017 4:41 PM" info="" tags="Pano" latitude="" source=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
-      <polyhotspot target="1.9/-8.4/70.0" id="Case 6" title="Case 6: Examples of Race Film" description="Case 6: Examples of Race Film Description" url="{node5}">
-        <vertex pan="-8.23" tilt="8.24"/>
-        <vertex pan="-7.65" tilt="-14.09"/>
-        <vertex pan="-22.4" tilt="-13.85"/>
-        <vertex pan="-22.45" tilt="7.22"/>
-        <vertex pan="-22.09" tilt="7.39"/>
+    <userdata datetime="5/24/2017 4:41 PM" source="" customnodeid="" title="Case 5" comment="" info="" author="Francesca Albrezzi" latitude="" tags="Pano" longitude="" description="" copyright=""/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label background="1" borderradius="1" textcolor="0x000000" height="0" backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" wordwrap="1" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1" mode="1" bordercolor="0x0000ff"/>
+      <polyhotspot id="Case 6 Tour" title="Case 6: Silent Race Film as a New Genre" url="{node5}" target="1.9/-8.4/70.0" description="Continue your tour to learn more about Silent Race Film as a new genre in the early 1900s.">
+        <vertex tilt="8.24" pan="-8.23"/>
+        <vertex tilt="-14.09" pan="-7.65"/>
+        <vertex tilt="-13.85" pan="-22.4"/>
+        <vertex tilt="7.22" pan="-22.45"/>
+        <vertex tilt="7.39" pan="-22.09"/>
       </polyhotspot>
+      <hotspot id="Case 5 Description" title="Case 5: “Lincoln Motion Picture Company Making Good”" tilt="-31.65" url="" target="_self" skinid="ht_info" pan="66.14" description="&lt;i>&quot;Your two pictures, Realization and The Trooper of Troop K, shown at my theater, the week of March 26, are the best Negro pictures I've ever seen. I have been disgusted with most Negro photoplays, and until I booked your picture it has been more than two years since I have shown one in my house. I unhesitatingly endorse both of the pictures and wish the Lincoln Motion Picture Company all of the success they are justly entitled to. Yours very truly, Robert R. Church.&quot;&lt;/i>  -Letter from African-American theater-owner Robert Church to the Lincoln Motion Picture Company, March 28, 1917   &#xa;&#xa;With the success of The Realization of a Negro’s Ambition and subsequent LMPC films, the company proved that black audiences were eager for sophisticated and quality content. The reflections of black dignity and pride contained in these narratives showed other filmmakers what was possible. Examples of the work, the media presence and the company’s production culture are found here in promotional key art, set documents, and representations of the company in media.   &#xa;"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
-    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
+    <transition zoomoutpause="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" zoomin="0" enabled="0" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboard="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" sensitivity="8" contextprojections="0" hideabout="0"/>
   </panorama>
   <panorama id="node5">
-    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="0.4" overlap="1" levelingroll="0.2" levelbiashidpi="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1368" height="1368" preload="0" predecode="0"/>
-      <level width="684" height="684" preload="0" predecode="0"/>
-      <level width="342" height="342" preload="1" predecode="1"/>
+    <input leveltilesize="510" levelingpitch="0.4" levelbiashidpi="0.400" overlap="1" height="1368" levelbias="0.400" width="1368" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0.2">
+      <level preload="0" predecode="0" height="1368" width="1368"/>
+      <level preload="0" predecode="0" height="684" width="684"/>
+      <level preload="1" predecode="1" height="342" width="342"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="6.33306" fov="70.2283" tilt="-9.71478"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="70.2283" projection="4" tilt="-8.54345" pan="4.80216"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1"/>
     </view>
-    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="SAMSUNG" longitude="" description="" datetime="5/24/2017 4:43 PM" info="" tags="Pano" latitude="" source=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot target="-1.2/-52.3/70.0" id="Case 7" title="Case 7: The Legacy of Race Film" description="Case 7: The Legacy of Race Film Description" url="{node6}" skinid="ht_node" pan="-103.46" tilt="-18.09"/>
-    </hotspots>
-    <media/>
-    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
-    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
-  </panorama>
-  <panorama id="node6">
-    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="0.7" overlap="1" levelingroll="0.8" levelbiashidpi="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1368" height="1368" preload="0" predecode="0"/>
-      <level width="684" height="684" preload="0" predecode="0"/>
-      <level width="342" height="342" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="-1.17604" fov="70" tilt="-52.241"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
-    </view>
-    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="SAMSUNG" longitude="" description="" datetime="5/24/2017 4:42 PM" info="" tags="Pano" latitude="" source=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
-      <polyhotspot target="0.9/-29.2/70.0" id="Case 8" title="Case 8: The Trooper of Troop K" description="Case 8: The Trooper of Troop K Description" url="{node7}">
-        <vertex pan="91.21" tilt="5.27"/>
-        <vertex pan="90.76" tilt="-9.39"/>
-        <vertex pan="85.65" tilt="-9.59"/>
-        <vertex pan="85.82" tilt="5.27"/>
+    <userdata datetime="5/24/2017 4:43 PM" source="" customnodeid="" title="Case 6" comment="" info="" author="Francesca Albrezzi" latitude="" tags="Pano" longitude="" description="" copyright=""/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label background="1" borderradius="1" textcolor="0x000000" height="0" backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" wordwrap="1" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1" mode="1" bordercolor="0x0000ff"/>
+      <hotspot id="Case 6 Description" title="Case 6: Silent Race Film as a New Genre" tilt="-19.77" url="" target="" skinid="ht_info" pan="33.59" description="&lt;i>“I am going into a new subject now, Oscar Micheaux. This is a story, true in all details, of one of the most colorful characters in the history of Negro motion pictures. His record, while none to savory, is at least too valuable and too interesting to be overlooked…Oscar Micheaux had a good appearance and was quite a talker…”&lt;/i>  -George P. Johnson   &#xa;&#xa;While the Lincoln Motion Picture Company was one of the first silent race film companies, it was by no means the last. The efforts of the LMPC paved the way for the emerging silent race film genre. Black filmmakers could look to the company’s success as proof that these films had waiting and eager audiences. The establishment of networks of “colored” theaters in the U.S. offered opportunities for exhibition. As different artists began to work in the new genre, different artistic styles and ways of narrating the black experience began to appear. Oscar Micheaux was a prominent black filmmaker whose work was much-commented upon by George P. Johnson. Here we share key art and stills from the films of Oscar Micheaux and other filmmakers who who made work specifically for black audiences. Featured here are Within Our Gates and Gunsaulus Mystery by Oscar Micheaux, and The Jazz Hounds and Sport of the Gods by the Reol Film Company. "/>
+      <polyhotspot id="Case 7 Tour" title="Case 7: “Do Negroes Have a Future In Hollywood?”" url="{node6}" target="" description="The tour continues with a look at the legacy of race film and others who contributed to its production and distribution.  ">
+        <vertex tilt="-11.71" pan="-93.71"/>
+        <vertex tilt="-8.64" pan="-93.31"/>
+        <vertex tilt="-8.2" pan="-101.8"/>
+        <vertex tilt="-14.83" pan="-112.56"/>
+        <vertex tilt="-21.65" pan="-113.06"/>
+        <vertex tilt="-23.02" pan="-98.7"/>
+        <vertex tilt="-23.04" pan="-98.55"/>
       </polyhotspot>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
-    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
+    <transition zoomoutpause="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" zoomin="0" enabled="0" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboard="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" sensitivity="8" contextprojections="0" hideabout="0"/>
   </panorama>
-  <panorama id="node7">
-    <input width="1368" levelbias="0.400" height="1368" leveltilesize="510" levelingpitch="-359" overlap="1" levelingroll="0.4" levelbiashidpi="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1368" height="1368" preload="0" predecode="0"/>
-      <level width="684" height="684" preload="0" predecode="0"/>
-      <level width="342" height="342" preload="1" predecode="1"/>
+  <panorama id="node6">
+    <input leveltilesize="510" levelingpitch="0.7" levelbiashidpi="0.400" overlap="1" height="1368" levelbias="0.400" width="1368" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0.8">
+      <level preload="0" predecode="0" height="1368" width="1368"/>
+      <level preload="0" predecode="0" height="684" width="684"/>
+      <level preload="1" predecode="1" height="342" width="342"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="12.445" fov="70" tilt="38.531"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max fovstereographic="270" fovfisheye="360" pan="360" fov="120" tilt="90" scaletofit="1"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" tilt="-52.241" pan="-1.17604"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1"/>
     </view>
-    <userdata author="Francesca Albrezzi" comment="" copyright="" customnodeid="" title="SAMSUNG" longitude="" description="" datetime="5/24/2017 4:39 PM" info="" tags="Pano" latitude="" source=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label width="180" textalpha="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" background="1" wordwrap="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot target="-178.4/-80.8/77.6" id="Center" title="Back to Case 1" description="Back to Case 1" url="{node8}" skinid="ht_node" pan="-75.59" tilt="-18"/>
+    <userdata datetime="5/24/2017 4:42 PM" source="" customnodeid="" title="Case 7" comment="" info="" author="Francesca Albrezzi" latitude="" tags="Pano" longitude="" description="" copyright=""/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label background="1" borderradius="1" textcolor="0x000000" height="0" backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" wordwrap="1" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1" mode="1" bordercolor="0x0000ff"/>
+      <polyhotspot id="Case 8 Tour" title="Case 8: “The Trooper of Troop K”" url="{node7}" target="0.9/-29.2/70.0" description="Complete your tour with a case dedicated to the LMPC's second film &quot;The Trooper of Troop K.&quot;">
+        <vertex tilt="5.27" pan="91.21"/>
+        <vertex tilt="-9.39" pan="90.76"/>
+        <vertex tilt="-9.59" pan="85.65"/>
+        <vertex tilt="5.27" pan="85.82"/>
+      </polyhotspot>
+      <hotspot id="Case 7 Description" title="Case 7: “Do Negroes Have a Future In Hollywood?”" tilt="-39.9" url="" target="_self" skinid="ht_info" pan="59.18" description="&lt;i>“I am laying a plain question to you. Is there a possibility to make a success in producing colored film dramas and comedies with colored actors, to be shown in colored theaters? Will time change conditions [so] that colored films will become popular from novelty view in white theaters, as are colored acts in vaudeville?”&lt;/i>  -William Foster (of Foster Film Company) in a letter to George P. Johnson, June 1, 1917 &#xa;&#xa;The Lincoln Motion Picture Company pushed beyond entertainment industry stereotypes by producing films for black audiences featuring black casts, and storylines that afforded African-Americans dignity and agency. The company produced these films contrary to the prevailing belief that black audiences had no appetite for sophisticated material. The success of the LMPC changed perceptions of what these audiences wanted, understood, and accepted. Black actors found opportunities in this work to pursue roles of depth and complexity. Some of them, such as Evelyn Preer and Noble Johnson, rose to stardom. This case offers evidence of changing attitudes towards black storytellers working in the motion picture industry.  "/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" softedge="0" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" zoomspeed="2"/>
-    <control speedwheel="1" lockedwheel="0" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0"/>
+    <transition zoomoutpause="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" zoomin="0" enabled="0" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboard="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" sensitivity="8" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" levelingpitch="-359" levelbiashidpi="0.400" overlap="1" height="1368" levelbias="0.400" width="1368" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0.4">
+      <level preload="0" predecode="0" height="1368" width="1368"/>
+      <level preload="0" predecode="0" height="684" width="684"/>
+      <level preload="1" predecode="1" height="342" width="342"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" tilt="-27.2419" pan="7.49421"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata datetime="5/24/2017 4:39 PM" source="" customnodeid="" title="Case 8" comment="" info="" author="Francesca Albrezzi" latitude="" tags="Pano" longitude="" description="" copyright=""/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label background="1" borderradius="1" textcolor="0x000000" height="0" backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" wordwrap="1" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1" mode="1" bordercolor="0x0000ff"/>
+      <hotspot id="Case 8" title="Case 8: &quot;The Trooper of Troop K&quot;" tilt="-45.89" url="" target="_parent" skinid="ht_info" pan="-27.59" description="&lt;i>“It depicts in gripping scenes the unflinching bravery of Negro troopers under fire and how, greatly outnumbered, they sacrificed their blood and life for their country.”&lt;/i>  -Film review, author unknown, as relayed by George P. Johnson &#xa;&#xa;The second film by the Lincoln Motion Picture Company dealt with the massacre of the black soldiers of the 10th Cavalry unit in the Mexican-American War, and the rescue of a white army captain by the troopers of Troop K. It starred Noble Johnson as its leading man. The film depicted Johnson’s character as a selfless, courageous black war hero dying for love of country. This representation of black courage thrilled audiences eager to see something of themselves reflected onscreen. The company used former black troopers from the 9th and 10th cavalry units as extras in the battle scene, and the total number of people involved in the production exceeded 300. The film was a large success nationally, and key art and related documents are shown here. Although George Johnson is sometimes listed as a member of the cast, there is no mention of his role in the film in transcripts of his interviews. As is so often the case with race film, the work itself is lost to time, and so there is no way to know. "/>
+      <polyhotspot id="Back to Start" title="Back to Start" url="{node9}" target="9.2/-0.8/54.0" description="Click here to start your tour again.">
+        <vertex tilt="-29.65" pan="58.78"/>
+        <vertex tilt="22.46" pan="58.85"/>
+        <vertex tilt="16.67" pan="83.82"/>
+        <vertex tilt="-20.28" pan="85.1"/>
+        <vertex tilt="-20.2" pan="85.38"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" zoomin="0" enabled="0" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboard="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" sensitivity="8" contextprojections="0" hideabout="0"/>
   </panorama>
 </tour>
